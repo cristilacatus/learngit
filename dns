@@ -1,0 +1,14 @@
+C:\Windows\System32\drivers\etc\hosts
+
+10.0.0.4 gbl.his.arc.azure.com
+10.0.0.5 cc.his.arc.azure.com
+10.0.0.6 canada-ats.his.arc.azure.com
+10.0.0.7 agentserviceapi.guestconfiguration.azure.com
+10.0.0.8 canadacentral-gas.guestconfiguration.azure.com
+10.0.0.9 canadacentral.dp.kubernetesconfiguration.azure.com
+10.0.0.4 gbl.privatelink.his.arc.azure.com
+10.0.0.5 cc.privatelink.his.arc.azure.com
+10.0.0.6 canada-ats.privatelink.his.arc.azure.com
+10.0.0.7 agentserviceapi.privatelink.guestconfiguration.azure.com
+10.0.0.8 canadacentral-gas.privatelink.guestconfiguration.azure.com
+10.0.0.9 canadacentral.privatelink.dp.kubernetesconfiguration.azure.com
